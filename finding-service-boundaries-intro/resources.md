@@ -11,5 +11,5 @@
 - [Using Antirequirements to find system boundaries](https://particular.net/blog/antirequirements)
 
 ### Contact Me
-- [LinkedIn] (https://linkedin.com/in/awright181)
+- [LinkedIn](https://linkedin.com/in/awright181)
 - [Schedule a meeting](mailto:adam.wright@particular.net) 
