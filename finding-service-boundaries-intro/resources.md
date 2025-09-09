@@ -14,6 +14,10 @@
 - [Getting Started](https://docs.particular.net/tutorials/quickstart/?kme=hp-hero-qs)
 - [NServiceBus Sagas](https://docs.particular.net/tutorials/nservicebus-sagas/)
 
+## Distributed Systems Design 
+- [Free Fundamentals course](https://learn.particular.net/courses/distributed-systems-design-fundamentals-online)
+- [Advanced Distributed Systems Design course](https://particular.net/adsd)
+
 ### Contact Me
 - [LinkedIn](https://linkedin.com/in/awright181)
 - [Schedule a meeting](mailto:adam.wright@particular.net) 
