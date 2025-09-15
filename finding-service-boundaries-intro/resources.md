@@ -1,5 +1,6 @@
 ## Feedback 
 
+If you'd like to leave feedback about the presentation, please fill out this [short 3 question survey](https://docs.google.com/forms/d/e/1FAIpQLSeCxoQSX_IlhAV7azkZn5x1-TN2UIpEwxIsZqDc94xqGf2zUg/viewform). 
 
 ## Slides
 - Finding Service Boundaries [Slides](https://github.com/awright18/presentations/blob/main/finding-service-boundaries-intro/Finding%20Service%20Boundaries.pptx)
@@ -23,4 +24,4 @@
 
 ### Contact Me
 - [LinkedIn](https://linkedin.com/in/awright181)
-- [Schedule a meeting](mailto:adam.wright@particular.net) 
+- [Schedule a meeting](https://calendly.com/adam-wright-particular/30min)
